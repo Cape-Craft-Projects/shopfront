@@ -4,7 +4,7 @@ ________________________________________________________________
 
 Cape Craft Projects
 
-[Website](https://www.markdownguide.org)
+[Website](https://durbanvilledistillery.com/)
 
 ## What we do
 _______________________________________________
@@ -14,6 +14,6 @@ _______________________________________________
 3. Third
 4. Fourth
 
-[^1]: This is the footnote.
+[^1]: Copyright © 2022 Cape Town Craft Projects
 
 
