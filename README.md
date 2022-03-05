@@ -1,5 +1,5 @@
 # Cape Craft Projects
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+![alt text](https://durbanvilledistillery.com/images/CCLogo.png)
 ________________________________________________________________
 
 Cape Craft Projects
