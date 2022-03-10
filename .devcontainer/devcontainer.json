@@ -48,7 +48,7 @@
 	"features": {
 		"github-cli": "latest",
 		"powershell": "latest",
-		"Django": "latest",
+		"django": "latest",
 		"gunicorn": "latest",
 		"pipenv": "latest",
 		"whitenoise": "latest",
